@@ -22,11 +22,10 @@ ACME Simulators provides driving simulators for automakers and training organiza
 ```
 acme-driving-simulator-db/
 ├── README.md
-├── docs/
-│   └── database_design.pdf      # Project scope, ERD, data dictionary, relational schema
+├── database_design.pdf      # Project scope, ERD, data dictionary, relational schema
 └── sql/
-    ├── schema_seed.sql          # Table definitions and sample data
-    └── queries.sql              # 22 example analytical queries
+    ├── schema_seed.sql      # Table definitions and sample data
+    └── queries.sql          # 22 example analytical queries
 ```
 
 ---
