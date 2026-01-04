@@ -1,6 +1,6 @@
 # ACME Driving Simulator Database
 
-Live demo: https://www.db-fiddle.com/f/9uxujWFUq8Gv6zBD6aas3Q/1
+Live demo: https://www.db-fiddle.com/f/9uxujWFUq8Gv6zBD6aas3Q/2
 
 ---
 ## Project Overview
