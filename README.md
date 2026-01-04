@@ -1,5 +1,7 @@
 # ACME Simulators Database
 
+Live demo: https://www.db-fiddle.com/f/9uxujWFUq8Gv6zBD6aas3Q/0
+
 ---
 ## Project Overview
 
@@ -62,7 +64,7 @@ The repository includes **22 example queries** demonstrating common analytical o
 | 2 | Find most frequently selected option values (Product + Platform) | Inform default configuration recommendations for new projects |
 | 3 | Detect product–platform configuration conflicts (e.g., AC=True with Tech Level=Low) | Prevent invalid configurations before delivery |
 | 4 | List all features used per customer (product + platform option values) | Support customer success with personalized insights |
-| 5 | Calculate days from project order to first approved document delivery | Monitor fulfillment SLAs; identify potentially dissatisfied customers for proactive outreach |
+| 5 | Calculate days from project order to first approved document delivery | Identify potentially dissatisfied customers for proactive outreach |
 
 ---
 ## Team
